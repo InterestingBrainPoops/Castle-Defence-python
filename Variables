@@ -1,0 +1,12 @@
+import time
+wood = 0
+steel = 0
+workers = 0
+civilians = 0
+space = 100
+soldiers = 0
+soldierlev = 1
+soldierhp = 10
+castlelev = 1
+catlehp = 100
+castlespce = 30
